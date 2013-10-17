@@ -62,8 +62,4 @@ http://ftp.gnu.org/gnu/bash/
 
 >Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
 
-+ ÓT:   
-
-
-+ GHG:   
-
++ Sjá lýsingar hér fyrir ofan…. (er 4. liðurinn ekki best geymdur undir 4. lið?)
