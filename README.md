@@ -27,7 +27,7 @@ LinuxMint var sett upp frá geisladiski og default partitioning valinn sem og de
 
 
 + GHG:    
-Vim var thegar komid i notkun en hin tolin duttu inn eins og ekkert vaeri. :)
+Vim var þegar komid í notkun en hin tólin duttu inn eins og ekkert væri. :)
 
 ## 3. Unnið með Git (1. hluti)
 
@@ -48,6 +48,7 @@ Vim var thegar komid i notkun en hin tolin duttu inn eins og ekkert vaeri. :)
 >Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 
 + ÓT:   
+ls  source: http://ftp.gnu.org/gnu/coreutils/  license: http://gnu.org/licenses/gpl.html   
 
 
 + GHG:   
