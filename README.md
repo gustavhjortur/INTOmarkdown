@@ -49,7 +49,7 @@ Vim var þegar komid í notkun en hin tólin duttu inn eins og ekkert væri. :)
 
 + ÓT:   
 ls  source: http://ftp.gnu.org/gnu/coreutils/ license: http://gnu.org/licenses/gpl.html   
-firefox  source: http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/ license: Mozilla Public License 2.0 (MPL). http://www.mozilla.org/MPL/
+firefox  source: http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/ license: Mozilla Public License 2.0 (MPL). http://www.mozilla.org/MPL/   
 gedit source: http://ftp.acc.umu.se/pub/GNOME/sources/gedit/ license: http://www.gnu.org/licenses/gpl.html
 
 + GHG:   
