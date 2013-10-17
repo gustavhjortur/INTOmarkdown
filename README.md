@@ -16,7 +16,7 @@ Setti upp Virtual box, og eftir margar árangurslausar tilraunir, tóks mér að
 + GHG:
 LinuxMint var sett upp frá geisladiski og default partitioning valinn sem og default packa safn.
 
-![Alt text](/home/gustav/hr/T-109/v06/boot_pic_ghg.jpeg "Boot menu")
+![Alt text](boot_pic_ghg.jpeg "Boot menu")
 
 ## 2. Uppsetning á vim && git
 
