@@ -13,7 +13,8 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 + ÓT:
 Setti upp Virtual box, og eftir margar árangurslausar tilraunir, tóks mér að setja upp Ubuntu 12.04 
 
-+ GHG:\n
++ GHG:
+
 LinuxMint var sett upp frá geisladiski og default partitioning valinn sem og default packa safn.
 
 ![Alt text](boot_pic_ghg.jpeg "Boot menu")
@@ -26,7 +27,8 @@ LinuxMint var sett upp frá geisladiski og default partitioning valinn sem og de
 + ÓT:
 
 
-+ GHG:\n
++ GHG:
+
 Vim var thegar komid i notkun en hin tolin duttu inn eins og ekkert vaeri. :)
 
 ## 3. Unnið með Git (1. hluti)
