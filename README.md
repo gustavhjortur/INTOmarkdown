@@ -14,7 +14,7 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 Setti upp Virtual box, og eftir margar árangurslausar tilraunir, tóks mér að setja upp Ubuntu 12.04 
 
 + GHG:   
-LinuxMint var sett upp frá geisladiski og default partitioning valinn sem og default packa safn.
+LinuxMint var sett upp frá geisladiski og default partitioning valinn sem og default packa safn. (Framkvaemt i agust til ad fordast ubuntu)
 
 ![Alt text](./boot_pic_ghg.jpg "Boot menu")
 
@@ -51,11 +51,11 @@ Vim var thegar komid i notkun en hin tolin duttu inn eins og ekkert vaeri. :)
 
 
 + GHG:   
-++GIMP - GNU Image Manipulation Program: Released under the LGPLv3 and later versions and the GPLv3 and later versions as free and open-source software. (http://en.wikipedia.org/wiki/GIMP)   
+++ GIMP - GNU Image Manipulation Program: Released under the LGPLv3 and later versions and the GPLv3 and later versions as free and open-source software. (http://en.wikipedia.org/wiki/GIMP)   
 ftp://ftp.mirrorservice.org/sites/ftp.gimp.org/pub/gimp/   
-++vim - Vi IMproved: Its license is GPL-compatible (http://vimdoc.sourceforge.net/htmldoc/uganda.html#license)   
+++ vim - Vi IMproved: Its license is GPL-compatible (http://vimdoc.sourceforge.net/htmldoc/uganda.html#license)   
 ftp://ftp.vim.org/pub/vim/unix/vim-6.4.tar.bz2   
-++bash - GNU Bourne-Again SHell: GNU General Public License (http://www.gnu.org/licenses/gpl.html)   
+++ bash - GNU Bourne-Again SHell: GNU General Public License (http://www.gnu.org/licenses/gpl.html)   
 http://ftp.gnu.org/gnu/bash/
 
 ## 5. Unnið með Git (2. hluti)
