@@ -10,12 +10,13 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 
 >Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
-+ÓT:
++ ÓT:
 Setti upp Virtual box, og eftir margar árangurslausar tilraunir, tóks mér að setja upp Ubuntu 12.04 
 
-+GHG:
++ GHG:
 LinuxMint var sett upp frá geisladiski og default partitioning valinn sem og default packa safn.
 
+![Alt text](/home/gustav/hr/T-109/v06/boot_pic_ghg.jpeg "Boot menu")
 
 ## 2. Uppsetning á vim && git
 
