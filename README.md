@@ -14,7 +14,7 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 Setti upp Virtual box, og eftir margar árangurslausar tilraunir, tóks mér að setja upp Ubuntu 12.04 
 
 + GHG:   
-LinuxMint var sett upp frá geisladiski og default partitioning valinn sem og default packa safn. (Framkvæmt í ágúst til að forðast ubuntu, eftir Xorg vesen með Fedora10)
+LinuxMint var sett upp frá geisladiski og default partitioning valinn sem og default packa safn. (Framkvæmt í ágúst til að forðast ubuntu, eftir Xorg vesen með Fedora19)
 
 ![Alt text](boot_pic_ghg.png "Boot Menu" )
 
@@ -48,8 +48,9 @@ Vim var þegar komid í notkun en hin tólin duttu inn eins og ekkert væri. :)
 >Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
 
 + ÓT:   
-ls  source: http://ftp.gnu.org/gnu/coreutils/  license: http://gnu.org/licenses/gpl.html   
-
+ls  source: http://ftp.gnu.org/gnu/coreutils/ license: http://gnu.org/licenses/gpl.html   
+firefox  source: http://ftp.mozilla.org/pub/mozilla.org/firefox/releases/ license: Mozilla Public License 2.0 (MPL). http://www.mozilla.org/MPL/
+gedit source: http://ftp.acc.umu.se/pub/GNOME/sources/gedit/ license: http://www.gnu.org/licenses/gpl.html
 
 + GHG:   
 GIMP - GNU Image Manipulation Program: Released under the LGPLv3 and later versions and the GPLv3 and later versions as free and open-source software. (http://en.wikipedia.org/wiki/GIMP)   
