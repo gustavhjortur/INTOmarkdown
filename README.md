@@ -18,6 +18,7 @@ LinuxMint var sett upp frá geisladiski og default partitioning valinn sem og de
 
 ![Alt text](boot_pic_ghg.jpeg "Boot menu")
 
+
 ## 2. Uppsetning á vim && git
 
 Lýsið hvernig gekk að setja upp þessi tól.
