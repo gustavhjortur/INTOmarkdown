@@ -14,9 +14,9 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 Setti upp Virtual box, og eftir margar árangurslausar tilraunir, tóks mér að setja upp Ubuntu 12.04 
 
 + GHG:   
-LinuxMint var sett upp frá geisladiski og default partitioning valinn sem og default packa safn. (Framkvaemt i agust til ad fordast ubuntu)
+LinuxMint var sett upp frá geisladiski og default partitioning valinn sem og default packa safn. (Framkvæmt í ágúst til að forðast ubuntu, eftir Xorg vesen með Fedora10)
 
-![Alt text](boot_pic_ghg.png)
+![Alt text](boot_pic_ghg.png "Boot Menu" )
 
 
 ## 2. Uppsetning á vim && git
