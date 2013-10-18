@@ -12,7 +12,8 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 
 + ÓT:   
 Setti upp Virtual box, og eftir margar árangurslausar tilraunir, tóks mér að setja upp Ubuntu 12.04.  
-![Alt text](<a href="http://tinypic.com?ref=2vblnxg" target="_blank"><img src="http://i43.tinypic.com/2vblnxg.png" border="0" alt="Image and video hosting by TinyPic"></a>)
+![Alt text](http://oi43.tinypic.com/2vblnxg.jpg "Boot Menu" )
+
 
 + GHG:   
 LinuxMint var sett upp frá geisladiski og default partitioning valinn sem og default packa safn. (Framkvæmt í ágúst til að forðast ubuntu, eftir Xorg vesen með Fedora19)
