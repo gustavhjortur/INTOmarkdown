@@ -11,7 +11,7 @@ Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það h
 >Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
 
 + ÓT:   
-Setti upp Virtual box, og eftir margar árangurslausar tilraunir, tóks mér að setja upp Ubuntu 12.04.  
+Setti upp Virtual box, og eftir margar árangurslausar tilraunir, tóks mér að setja upp Ubuntu 12.04.
 ![Alt text](http://oi43.tinypic.com/2vblnxg.jpg "Boot Menu" )
 
 
@@ -26,7 +26,7 @@ LinuxMint var sett upp frá geisladiski og default partitioning valinn sem og de
 >Lýsið hvernig gekk að setja upp þessi tól.
 
 + ÓT:   
-Það gekk ekki að setja upp Vim svo ég notaði nano í staðiinn, að setja upp git var lítið mál 
+Það gekk ekki að setja upp Vim svo ég notaði nano í staðinn. Að setja upp git var lítið mál 
 en Virtualbox vistaði ekki breytingar eftir að það var slökkt á henni. Ég gat heldur ekki "innstallað"
 xclip og því afritaði ég SSH beint úr skránni.
 
